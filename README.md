@@ -1,6 +1,6 @@
 # Parallax-Website
 
-![Design preview for the Parallax Website](ParallaxWebsite.gif)
+![Design preview for the Parallax Website](New-Recording-3_22_2022_-11_37_52-PM.gif)
 
 ## Welcome! 👋
 
